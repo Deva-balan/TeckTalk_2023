@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <button onclick=GoHome();>building Web apps with ASP.NET Core</button>.</p>
+</div>
+
+<script src="~/js/apiconnector_and_validation.js"></script>
+<script>
+    function GoHome(){  
+        $.ajax
+            ({
+                type: 'GET',
+                url: '/Go-Home',
+                contentType: "application/json",
+                dataType: "json",
+                data: JSON.stringify(Filename),
+                success: function (Response) {
+                    console.log(Response);
+                    if (Response != null) {
+                        re
+                    }
+                }
+            });
+    }
+
+</script>
