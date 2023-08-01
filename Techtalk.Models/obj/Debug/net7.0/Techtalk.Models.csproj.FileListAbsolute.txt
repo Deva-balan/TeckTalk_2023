@@ -1,0 +1,24 @@
+D:\PRATHI\TechTalk\Techtalk.Models\bin\Debug\net7.0\Techtalk.Models.deps.json
+D:\PRATHI\TechTalk\Techtalk.Models\bin\Debug\net7.0\Techtalk.Models.dll
+D:\PRATHI\TechTalk\Techtalk.Models\bin\Debug\net7.0\Techtalk.Models.pdb
+D:\PRATHI\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.csproj.AssemblyReference.cache
+D:\PRATHI\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRATHI\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.AssemblyInfoInputs.cache
+D:\PRATHI\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.AssemblyInfo.cs
+D:\PRATHI\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.csproj.CoreCompileInputs.cache
+D:\PRATHI\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.dll
+D:\PRATHI\TechTalk\Techtalk.Models\obj\Debug\net7.0\refint\Techtalk.Models.dll
+D:\PRATHI\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.pdb
+D:\PRATHI\TechTalk\Techtalk.Models\obj\Debug\net7.0\ref\Techtalk.Models.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\bin\Debug\net7.0\Techtalk.Models.deps.json
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\bin\Debug\net7.0\Techtalk.Models.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\bin\Debug\net7.0\Techtalk.Models.pdb
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.csproj.AssemblyReference.cache
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.AssemblyInfoInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.AssemblyInfo.cs
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.csproj.CoreCompileInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\obj\Debug\net7.0\refint\Techtalk.Models.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\obj\Debug\net7.0\Techtalk.Models.pdb
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.Models\obj\Debug\net7.0\ref\Techtalk.Models.dll
