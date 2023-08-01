@@ -1,0 +1,136 @@
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.csproj.AssemblyReference.cache
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.AssemblyInfoInputs.cache
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.AssemblyInfo.cs
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.csproj.CoreCompileInputs.cache
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.MvcApplicationPartsAssemblyInfo.cs
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.MvcApplicationPartsAssemblyInfo.cache
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\appsettings.Development.json
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\appsettings.json
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.exe
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.deps.json
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.runtimeconfig.json
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.pdb
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Dapper.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\GemBox.Spreadsheet.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\HarfBuzzSharp.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\SkiaSharp.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.DBEngine.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.Framework.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.Models.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.Repository.dll
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.Models.pdb
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.Repository.pdb
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.DBEngine.pdb
+D:\PRATHI\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.Framework.pdb
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets\msbuild.Techtalk.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Techtalk.API.props
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Techtalk.API.props
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Techtalk.API.props
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\scopedcss\bundle\Techtalk.API.styles.css
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.csproj.CopyComplete
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.dll
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\refint\Techtalk.API.dll
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.pdb
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.genruntimeconfig.cache
+D:\PRATHI\TechTalk\Techtalk.API\obj\Debug\net7.0\ref\Techtalk.API.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.csproj.AssemblyReference.cache
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.AssemblyInfoInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.AssemblyInfo.cs
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.csproj.CoreCompileInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\refint\Techtalk.API.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.pdb
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\appsettings.json
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.exe
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.deps.json
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.runtimeconfig.json
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.API.pdb
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Dapper.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\GemBox.Spreadsheet.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\HarfBuzzSharp.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\SkiaSharp.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.DBEngine.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.Framework.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.Models.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.Repository.dll
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\Techtalk.Models.pdb
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.Repository.pdb
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.DBEngine.pdb
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\bin\Debug\net7.0\TechTalk.Framework.pdb
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets\msbuild.Techtalk.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Techtalk.API.props
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Techtalk.API.props
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Techtalk.API.props
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\scopedcss\bundle\Techtalk.API.styles.css
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.csproj.CopyComplete
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\Techtalk.API.genruntimeconfig.cache
+D:\Deva\New folder\TechTalk\TechTalk\Techtalk.API\obj\Debug\net7.0\ref\Techtalk.API.dll

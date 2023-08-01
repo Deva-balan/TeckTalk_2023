@@ -1,0 +1,30 @@
+D:\PRATHI\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.DBEngine.deps.json
+D:\PRATHI\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.DBEngine.dll
+D:\PRATHI\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.DBEngine.pdb
+D:\PRATHI\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.Framework.dll
+D:\PRATHI\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.Framework.pdb
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.csproj.AssemblyReference.cache
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.AssemblyInfoInputs.cache
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.AssemblyInfo.cs
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.csproj.CoreCompileInputs.cache
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.csproj.CopyComplete
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.dll
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\refint\TechTalk.DBEngine.dll
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.pdb
+D:\PRATHI\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\ref\TechTalk.DBEngine.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.DBEngine.deps.json
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.DBEngine.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.DBEngine.pdb
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.Framework.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\bin\Debug\net7.0\TechTalk.Framework.pdb
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.csproj.AssemblyReference.cache
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.AssemblyInfoInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.AssemblyInfo.cs
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.csproj.CoreCompileInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.csproj.CopyComplete
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\refint\TechTalk.DBEngine.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\TechTalk.DBEngine.pdb
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.DBEngine\obj\Debug\net7.0\ref\TechTalk.DBEngine.dll

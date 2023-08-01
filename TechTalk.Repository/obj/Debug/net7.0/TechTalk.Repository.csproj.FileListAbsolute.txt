@@ -1,0 +1,34 @@
+D:\PRATHI\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Repository.deps.json
+D:\PRATHI\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Repository.dll
+D:\PRATHI\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Repository.pdb
+D:\PRATHI\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.DBEngine.dll
+D:\PRATHI\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Framework.dll
+D:\PRATHI\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.DBEngine.pdb
+D:\PRATHI\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Framework.pdb
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.csproj.AssemblyReference.cache
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.AssemblyInfoInputs.cache
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.AssemblyInfo.cs
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.csproj.CoreCompileInputs.cache
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.csproj.CopyComplete
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.dll
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\refint\TechTalk.Repository.dll
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.pdb
+D:\PRATHI\TechTalk\TechTalk.Repository\obj\Debug\net7.0\ref\TechTalk.Repository.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.csproj.AssemblyReference.cache
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.AssemblyInfoInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.AssemblyInfo.cs
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.csproj.CoreCompileInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\refint\TechTalk.Repository.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.pdb
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Repository.deps.json
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Repository.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Repository.pdb
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.DBEngine.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Framework.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.DBEngine.pdb
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\bin\Debug\net7.0\TechTalk.Framework.pdb
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\TechTalk.Repository.csproj.CopyComplete
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Repository\obj\Debug\net7.0\ref\TechTalk.Repository.dll

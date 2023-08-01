@@ -1,0 +1,24 @@
+D:\PRATHI\TechTalk\TechTalk.Framework\bin\Debug\net7.0\TechTalk.Framework.deps.json
+D:\PRATHI\TechTalk\TechTalk.Framework\bin\Debug\net7.0\TechTalk.Framework.dll
+D:\PRATHI\TechTalk\TechTalk.Framework\bin\Debug\net7.0\TechTalk.Framework.pdb
+D:\PRATHI\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.csproj.AssemblyReference.cache
+D:\PRATHI\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRATHI\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.AssemblyInfoInputs.cache
+D:\PRATHI\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.AssemblyInfo.cs
+D:\PRATHI\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.csproj.CoreCompileInputs.cache
+D:\PRATHI\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.dll
+D:\PRATHI\TechTalk\TechTalk.Framework\obj\Debug\net7.0\refint\TechTalk.Framework.dll
+D:\PRATHI\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.pdb
+D:\PRATHI\TechTalk\TechTalk.Framework\obj\Debug\net7.0\ref\TechTalk.Framework.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\bin\Debug\net7.0\TechTalk.Framework.deps.json
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\bin\Debug\net7.0\TechTalk.Framework.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\bin\Debug\net7.0\TechTalk.Framework.pdb
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.csproj.AssemblyReference.cache
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.AssemblyInfoInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.AssemblyInfo.cs
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.csproj.CoreCompileInputs.cache
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\obj\Debug\net7.0\refint\TechTalk.Framework.dll
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\obj\Debug\net7.0\TechTalk.Framework.pdb
+D:\Deva\New folder\TechTalk\TechTalk\TechTalk.Framework\obj\Debug\net7.0\ref\TechTalk.Framework.dll
